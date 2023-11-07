@@ -1,0 +1,38 @@
+header{
+    background-color: rgb(255, 255, 255);
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    padding: 20px;
+
+}
+.imagem_da_pagina{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 100%;   
+
+}
+img{
+    width: 35%;
+    height: auto;
+
+}
+
+div{
+    text-align: center;
+    font-size: 10px;
+}
+
+footer{
+
+    background-color: rgb(255, 255, 255);
+    font-size: 15px;
+    text-align: center;
+color: rgb(34, 36, 48);
+
+}
+ul{
+    font-size: 25px;
+}
